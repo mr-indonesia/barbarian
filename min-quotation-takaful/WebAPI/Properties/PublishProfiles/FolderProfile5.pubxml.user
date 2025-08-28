@@ -3,4 +3,9 @@
 https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful-apps</_PublishTargetUrl>
+    <History>True|2025-08-28T03:52:57.8851436Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
 </Project>
