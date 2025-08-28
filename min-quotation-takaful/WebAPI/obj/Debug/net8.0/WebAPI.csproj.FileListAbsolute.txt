@@ -440,8 +440,8 @@ D:\CodeReview\NewRemunService\min-remunservice-takaful\WebAPI\obj\Debug\net8.0\W
 D:\CodeReview\NewRemunService\min-remunservice-takaful\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
 D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\WebAPI\bin\Debug\net8.0\appsettings.Development.json
 D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\WebAPI\bin\Debug\net8.0\appsettings.json
-D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\WebAPI\bin\Debug\net8.0\WebAPI.staticwebassets.endpoints.json
 D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\WebAPI\bin\Debug\net8.0\WebAPI.staticwebassets.runtime.json
+D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\WebAPI\bin\Debug\net8.0\WebAPI.staticwebassets.endpoints.json
 D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\WebAPI\bin\Debug\net8.0\WebAPI.exe
 D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\WebAPI\bin\Debug\net8.0\WebAPI.deps.json
 D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\WebAPI\bin\Debug\net8.0\WebAPI.runtimeconfig.json
@@ -543,6 +543,7 @@ D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\WebAPI\obj\Deb
 D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
 D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
 D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\WebAPI\obj\Debug\net8.0\WebAPI.csproj.Up2Date
 D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\WebAPI\obj\Debug\net8.0\WebAPI.dll
 D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll
