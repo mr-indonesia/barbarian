@@ -2,8 +2,12 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
+/.vs
 /min-quotation-takaful/.vs/min-quotation-takaful/FileContentIndex
-/.vs/VSWorkspaceState.json
-/.vs/CloneGitQuotation/v17
-/.gitignore
-/.gitignore
+
+# Ignore Visual Studio cache folder
+.vs/
+
+# Build output
+bin/
+obj/
