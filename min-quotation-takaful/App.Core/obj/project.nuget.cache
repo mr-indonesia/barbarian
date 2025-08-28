@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8LUh+rwYWsA=",
+  "dgSpecHash": "sVlMBiZk+xg=",
   "success": true,
-  "projectFilePath": "D:\\CodeReview\\QuotationService\\QuotationGit\\min-quotation-takaful\\App.Core\\App.Core.csproj",
+  "projectFilePath": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\App.Core\\App.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johan.koesnandi\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\johan.koesnandi\\.nuget\\packages\\automapper.data\\5.0.0\\automapper.data.5.0.0.nupkg.sha512",

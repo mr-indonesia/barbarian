@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z2Iz/4N+0sk=",
+  "dgSpecHash": "zmxQV1AMUOU=",
   "success": true,
-  "projectFilePath": "D:\\CodeReview\\QuotationService\\QuotationGit\\min-quotation-takaful\\SharedKernel\\SharedKernel.csproj",
+  "projectFilePath": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\SharedKernel\\SharedKernel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johan.koesnandi\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512"
   ],

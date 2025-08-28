@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sv/d6+OYjYE=",
+  "dgSpecHash": "16rbyJQnHp8=",
   "success": true,
-  "projectFilePath": "D:\\CodeReview\\QuotationService\\QuotationGit\\min-quotation-takaful\\DataAccess.EFCore\\DataAccess.EFCore.csproj",
+  "projectFilePath": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\DataAccess.EFCore\\DataAccess.EFCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johan.koesnandi\\.nuget\\packages\\dapper\\2.1.28\\dapper.2.1.28.nupkg.sha512",
     "C:\\Users\\johan.koesnandi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

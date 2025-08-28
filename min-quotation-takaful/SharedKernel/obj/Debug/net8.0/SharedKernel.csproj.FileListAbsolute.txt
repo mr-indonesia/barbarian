@@ -59,3 +59,16 @@ D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\SharedKernel\o
 D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\SharedKernel\obj\Debug\net8.0\refint\SharedKernel.dll
 D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\SharedKernel\obj\Debug\net8.0\SharedKernel.pdb
 D:\CodeReview\QuotationService\QuotationGit\min-quotation-takaful\SharedKernel\obj\Debug\net8.0\ref\SharedKernel.dll
+D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\SharedKernel\bin\Debug\net8.0\SharedKernel.deps.json
+D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\SharedKernel\bin\Debug\net8.0\SharedKernel.dll
+D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\SharedKernel\bin\Debug\net8.0\SharedKernel.pdb
+D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\SharedKernel\obj\Debug\net8.0\SharedKernel.csproj.AssemblyReference.cache
+D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\SharedKernel\obj\Debug\net8.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\SharedKernel\obj\Debug\net8.0\SharedKernel.AssemblyInfoInputs.cache
+D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\SharedKernel\obj\Debug\net8.0\SharedKernel.AssemblyInfo.cs
+D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\SharedKernel\obj\Debug\net8.0\SharedKernel.csproj.CoreCompileInputs.cache
+D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\SharedKernel\obj\Debug\net8.0\SharedKernel.sourcelink.json
+D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\SharedKernel\obj\Debug\net8.0\SharedKernel.dll
+D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\SharedKernel\obj\Debug\net8.0\refint\SharedKernel.dll
+D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\SharedKernel\obj\Debug\net8.0\SharedKernel.pdb
+D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\SharedKernel\obj\Debug\net8.0\ref\SharedKernel.dll
