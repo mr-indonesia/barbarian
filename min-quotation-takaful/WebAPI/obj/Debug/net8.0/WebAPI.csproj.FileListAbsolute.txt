@@ -655,7 +655,6 @@ D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\WebAPI\ob
 D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
 D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
 D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
-D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\WebAPI\obj\Debug\net8.0\WebAPI.csproj.Up2Date
 D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\WebAPI\obj\Debug\net8.0\WebAPI.dll
 D:\CodeReview\QuotationService\CloneGitQuotation\min-quotation-takaful\WebAPI\obj\Debug\net8.0\refint\WebAPI.dll

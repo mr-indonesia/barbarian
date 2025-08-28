@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8s8TQSrkkbdCcLJHoy3oKo1Ktxm+QqKp5j6I2qTgcps=",
+  "Hash": "FJrY+H0NTTUlPn/uYRrYzViQjh3Hwir0FjHs0sv3ozQ=",
   "Source": "WebAPI",
   "BasePath": "_content/WebAPI",
   "Mode": "Default",
@@ -78,90 +78,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "gawgt6fljy",
-      "Integrity": "eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "k9n1kkbua6",
-      "Integrity": "CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "etnb7xlipe",
-      "Integrity": "rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "kao5znno1s",
-      "Integrity": "xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
       "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -330,6 +246,90 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gawgt6fljy",
+      "Integrity": "eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k9n1kkbua6",
+      "Integrity": "CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "etnb7xlipe",
+      "Integrity": "rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kao5znno1s",
+      "Integrity": "xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
       "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
@@ -521,12 +521,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -535,19 +535,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ukz1g2vv03",
-      "Integrity": "oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs=",
+      "Fingerprint": "dvc2bfcndg",
+      "Integrity": "qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -556,19 +556,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "rm8d4uw1xt",
-      "Integrity": "82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=",
+      "Fingerprint": "gb7ocvbhts",
+      "Integrity": "9GycpJnliUjJDVDqP0UEu/bsm9U+3dnQUH8+3W10vkY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -577,32 +577,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dsw5v3fbc5",
-      "Integrity": "PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=",
+      "Fingerprint": "wqejeusuyq",
+      "Integrity": "aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
-    },
-    {
-      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "SourceId": "WebAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\",
-      "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "afgyafcsqt",
-      "Integrity": "WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
       "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
@@ -710,12 +689,12 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -724,19 +703,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "dvc2bfcndg",
-      "Integrity": "qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU=",
+      "Fingerprint": "ukz1g2vv03",
+      "Integrity": "oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -745,19 +724,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "gb7ocvbhts",
-      "Integrity": "9GycpJnliUjJDVDqP0UEu/bsm9U+3dnQUH8+3W10vkY=",
+      "Fingerprint": "rm8d4uw1xt",
+      "Integrity": "82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "WebAPI",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\",
       "BasePath": "_content/WebAPI",
-      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -766,11 +745,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "wqejeusuyq",
-      "Integrity": "aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=",
+      "Fingerprint": "dsw5v3fbc5",
+      "Integrity": "PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\",
+      "BasePath": "_content/WebAPI",
+      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "afgyafcsqt",
+      "Integrity": "WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     }
   ],
   "Endpoints": [
@@ -1017,334 +1017,6 @@
         {
           "Name": "integrity",
           "Value": "sha256-dLGP40S79Xnx6GqUthRF6NWvjvhQ1nOvdVSwaNcgG18="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "202385"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.k9n1kkbua6.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "492048"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "k9n1kkbua6"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "492048"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.gawgt6fljy.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "202385"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gawgt6fljy"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "155764"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.kao5znno1s.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "625953"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "kao5znno1s"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "625953"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0="
-        }
-      ]
-    },
-    {
-      "Route": "lib/bootstrap/dist/css/bootstrap.min.etnb7xlipe.css",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "155764"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "etnb7xlipe"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs="
         }
       ]
     },
@@ -2001,6 +1673,334 @@
         {
           "Name": "integrity",
           "Value": "sha256-cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6+bHmo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.k9n1kkbua6.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k9n1kkbua6"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.gawgt6fljy.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gawgt6fljy"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.kao5znno1s.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "625953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kao5znno1s"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "625953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.etnb7xlipe.css",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etnb7xlipe"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs="
         }
       ]
     },
@@ -2743,8 +2743,8 @@
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.dvc2bfcndg.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2753,7 +2753,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "298502"
+          "Value": "19798"
         },
         {
           "Name": "Content-Type",
@@ -2761,44 +2761,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.min.dsw5v3fbc5.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "137974"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=\""
+          "Value": "\"qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU=\""
         },
         {
           "Name": "Last-Modified",
@@ -2812,21 +2775,21 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "dsw5v3fbc5"
+          "Value": "dvc2bfcndg"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery/dist/jquery.min.map"
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA="
+          "Value": "sha256-qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU="
         }
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2835,7 +2798,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "89478"
+          "Value": "19798"
         },
         {
           "Name": "Content-Type",
@@ -2843,7 +2806,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=\""
+          "Value": "\"qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU=\""
         },
         {
           "Name": "Last-Modified",
@@ -2857,13 +2820,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us="
+          "Value": "sha256-qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU="
         }
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.gb7ocvbhts.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2872,15 +2835,60 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "137974"
+          "Value": "5871"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/plain"
+          "Value": "text/javascript"
         },
         {
           "Name": "ETag",
-          "Value": "\"PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=\""
+          "Value": "\"9GycpJnliUjJDVDqP0UEu/bsm9U+3dnQUH8+3W10vkY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gb7ocvbhts"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9GycpJnliUjJDVDqP0UEu/bsm9U+3dnQUH8+3W10vkY="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5871"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9GycpJnliUjJDVDqP0UEu/bsm9U+3dnQUH8+3W10vkY=\""
         },
         {
           "Name": "Last-Modified",
@@ -2894,13 +2902,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA="
+          "Value": "sha256-9GycpJnliUjJDVDqP0UEu/bsm9U+3dnQUH8+3W10vkY="
         }
       ]
     },
     {
-      "Route": "lib/jquery/dist/jquery.min.rm8d4uw1xt.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2909,97 +2917,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "89478"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "rm8d4uw1xt"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/dist/jquery.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/dist/jquery.ukz1g2vv03.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "298502"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ukz1g2vv03"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/dist/jquery.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/LICENSE.afgyafcsqt.txt",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1641"
+          "Value": "587"
         },
         {
           "Name": "Content-Type",
@@ -3007,52 +2925,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "afgyafcsqt"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery/LICENSE.txt"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1641"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
+          "Value": "\"aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=\""
         },
         {
           "Name": "Last-Modified",
@@ -3066,7 +2939,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
+          "Value": "sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.wqejeusuyq.txt",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqejeusuyq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="
         }
       ]
     },
@@ -3481,8 +3399,8 @@
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.dvc2bfcndg.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Route": "lib/jquery/dist/jquery.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3491,7 +3409,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "19798"
+          "Value": "298502"
         },
         {
           "Name": "Content-Type",
@@ -3499,52 +3417,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "dvc2bfcndg"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "19798"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU=\""
+          "Value": "\"oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs=\""
         },
         {
           "Name": "Last-Modified",
@@ -3558,13 +3431,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-qbS02vMHZxdLNYKUtLPSYaSHXj1/ZwH1fv9f3XAY0LU="
+          "Value": "sha256-oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs="
         }
       ]
     },
     {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.gb7ocvbhts.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Route": "lib/jquery/dist/jquery.min.dsw5v3fbc5.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3573,89 +3446,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5871"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9GycpJnliUjJDVDqP0UEu/bsm9U+3dnQUH8+3W10vkY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "gb7ocvbhts"
-        },
-        {
-          "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-9GycpJnliUjJDVDqP0UEu/bsm9U+3dnQUH8+3W10vkY="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5871"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"9GycpJnliUjJDVDqP0UEu/bsm9U+3dnQUH8+3W10vkY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-9GycpJnliUjJDVDqP0UEu/bsm9U+3dnQUH8+3W10vkY="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "587"
+          "Value": "137974"
         },
         {
           "Name": "Content-Type",
@@ -3663,44 +3454,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="
-        }
-      ]
-    },
-    {
-      "Route": "lib/jquery-validation-unobtrusive/LICENSE.wqejeusuyq.txt",
-      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "587"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/plain"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=\""
+          "Value": "\"PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=\""
         },
         {
           "Name": "Last-Modified",
@@ -3714,15 +3468,261 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "wqejeusuyq"
+          "Value": "dsw5v3fbc5"
         },
         {
           "Name": "label",
-          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+          "Value": "lib/jquery/dist/jquery.min.map"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="
+          "Value": "sha256-PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.map",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.rm8d4uw1xt.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89478"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "rm8d4uw1xt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-82hEkGrSMJh3quMSG4f7FbngmAPLTDM63H4eNayS4Us="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.ukz1g2vv03.js",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "298502"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ukz1g2vv03"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oo12yYOwbYfrLG1t6v9+HU+vMvEnlKkr1eIcdUwG7Zs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.afgyafcsqt.txt",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "afgyafcsqt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.txt",
+      "AssetFile": "D:\\CodeReview\\QuotationService\\CloneGitQuotation\\min-quotation-takaful\\WebAPI\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 28 Aug 2025 02:48:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
         }
       ]
     }
