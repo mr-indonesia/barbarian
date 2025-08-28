@@ -4,3 +4,10 @@
 
 /.vs
 /min-quotation-takaful/.vs/min-quotation-takaful/FileContentIndex
+
+# Ignore Visual Studio cache folder
+.vs/
+
+# Build output
+bin/
+obj/
