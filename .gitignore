@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/min-quotation-takaful/.vs/min-quotation-takaful/FileContentIndex
+/.vs/VSWorkspaceState.json
+/.vs/CloneGitQuotation/v17
+/.gitignore
+/.gitignore
